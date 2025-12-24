@@ -1,2 +1,5 @@
-# Smart-Library-Management-System
-SLMS which allows Librarians to easily mantain library records.
+# Commands to establish connection to the database and run the Application
+
+1. javac -cp ".;lib/*" DBConnection.java
+2. javac Main.java
+3. java -cp ".;lib/*" Main
